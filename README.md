@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**evaapinaa/evaapinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Estudiante de 2º de ingeniería informática en la Universidad de Murcia 👩‍💻
 
-Here are some ideas to get you started:
+- 🚀 Actualmente, trabajando en diversos proyectos...
+- 💻 Practicando nuevas técnicas de programación
+- 📚 Siempre con ganas de aprender
+- ☕ Java lover
+- 👀 Te invito a echarle un vistazo a este proyecto: [ALF-Regex-Project](https://github.com/evaapinaa/ALF-Regex-Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+## 🔗 Links
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evaapinaa)
+
