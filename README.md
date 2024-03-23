@@ -1,5 +1,5 @@
 
-## Sobre mí
+## Sobre mí 👋
 Estudiante de 2º de ingeniería informática en la Universidad de Murcia 👩‍💻
 
 - 🚀 Actualmente, trabajando en diversos proyectos...
