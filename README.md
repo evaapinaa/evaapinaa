@@ -1,17 +1,9 @@
 
 ## Sobre mí 👋
-Estudiante de 2º de ingeniería informática en la Universidad de Murcia 👩‍💻
+Estudiante de 3º de ingeniería informática en la Universidad de Murcia 👩‍💻
 
-- 🚀 Actualmente, trabajando en diversos proyectos...
-- 💻 Practicando nuevas técnicas de programación
-- 📚 Siempre dando lo mejor de mí
+- 🚀 Aprendiendo
 - ☕ Java lover (y del café también)
-- 👀 Te invito a echarle un vistazo a este proyecto: [ALF-Regex-Project](https://github.com/evaapinaa/ALF-Regex-Project)
-
-
-
-
-
 
 ## 🔗 Links
 
