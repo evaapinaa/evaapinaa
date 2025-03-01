@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFF075&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Eva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFF075&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+¡Soy+Eva!;" />
 </h1>
 
 <h3 align="center">Estudiante de Ingeniería Informática</h3>
