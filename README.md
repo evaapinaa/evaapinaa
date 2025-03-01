@@ -13,9 +13,11 @@
  
 
 <br>
-<div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaapinaa&layout=donut-vertical)](https://github.com/evaapinaa/github-readme-stats)
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaapinaa&layout=donut&theme=dracula)](https://github.com/evaapinaa/github-readme-stats)
 
+</div>
 <br/>
 
 <div align="center">
