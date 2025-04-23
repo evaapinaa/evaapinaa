@@ -15,13 +15,13 @@
   <a href="https://github.com/evaapinaa/github-readme-stats">
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=evaapinaa&theme=rose&show_icons=true" 
+      src="https://github-readme-stats.vercel.app/api?username=evaapinaa&theme=dracula&show_icons=true" 
       alt="GitHub Stats" />
   </a>
   <a href="https://github.com/evaapinaa/convoychat">
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=evaapinaa&layout=compact&langs_count=10&theme=rose&show_icons=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=evaapinaa&layout=compact&langs_count=10&theme=dracula&show_icons=true" 
       alt="Top Languages" />
   </a>
 
