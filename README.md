@@ -14,12 +14,12 @@
   <br /><br />
   
   <!-- GitHub Stats -->
-  <a href="https://github.com/evaapinaa/github-readme-stats">
+  <br>
     <img 
       height="180" 
       src="https://github-readme-stats.vercel.app/api?username=evaapinaa&theme=dracula&show_icons=true" 
       alt="GitHub Stats" />
-  </a>
+
   <a href="https://github.com/evaapinaa/convoychat">
     <img 
       height="180" 
