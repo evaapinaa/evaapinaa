@@ -2,12 +2,14 @@
 
   <!-- Saludo / Presentación -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFF075&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+¡Soy+Eva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=FFB3C1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+¡Soy+Eva!;" />
   </h1>
 
   <!-- Visitor Count -->
   <h3>Visitor count</h3>
-  <img src="https://profile-counter.glitch.me/evaapinaa/count.svg" alt="Visitor Count" />
+<img 
+  src="https://komarev.com/ghpvc/?username=evaapinaa&style=flat-square&color=FFB3C1" 
+  alt="Visitor Count" />
 
   <br /><br />
   
