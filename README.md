@@ -17,13 +17,13 @@
   <br>
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=evaapinaa&theme=nord&show_icons=true" 
+      src="https://github-readme-stats.vercel.app/api?username=evaapinaa&theme=react&show_icons=true" 
       alt="GitHub Stats" />
 
   <a href="https://github.com/evaapinaa/convoychat">
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=evaapinaa&layout=compact&langs_count=10&theme=nord&show_icons=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=evaapinaa&layout=compact&langs_count=10&theme=react&show_icons=true" 
       alt="Top Languages" />
   </a>
 
