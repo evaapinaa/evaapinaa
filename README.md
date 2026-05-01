@@ -31,8 +31,9 @@
 
   <!-- Tech Stack Icons -->
   <div>
-    <img src="https://skillicons.dev/icons?i=java,html,css,vscode,github,git,r,bash,cmake" alt="Main Techs" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,eclipse,linux" alt="More Techs" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,bash,git,github" alt="Main tech stack" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,vscode,eclipse,postman,latex,markdown,arduino" alt="Tools and technologies" />
   </div>
 
   <br />
